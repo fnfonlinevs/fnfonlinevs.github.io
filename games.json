@@ -3,5 +3,45 @@
         "name": "FNF Online",
         "slug": "fnf-online",
         "image": "/cache/data/image/game/fnf-online/fnf-online-m186x186.webp"
+    },
+    {
+        "name": "Friday Night Funkin\u2019 Corruption",
+        "slug": "friday-night-funkin-corruption",
+        "image": "/cache/data/image/game/friday-night-funkin-corruption/friday-night-funkin-corruption-m186x186.webp"
+    },
+    {
+        "name": "Friday Night Funkin\u2019 V.S. Whitty",
+        "slug": "friday-night-funkin-v-s-whitty",
+        "image": "/cache/data/image/game/friday-night-funkin-v-s-whitty/friday-night-funkin-v-s-whitty-m186x186.webp"
+    },
+    {
+        "name": "Hymns of Hallownest",
+        "slug": "hymns-of-hallownest",
+        "image": "/cache/data/image/game/hymns-of-hallownest/hymns-of-hallownest-m186x186.webp"
+    },
+    {
+        "name": "Bounce Path",
+        "slug": "bounce-path",
+        "image": "/cache/data/image/game/bounce-path/bounce-path-m186x186.webp"
+    },
+    {
+        "name": "Dancing Beat",
+        "slug": "dancing-beat",
+        "image": "/cache/data/image/game/dancing-beat/dancing-beat-m186x186.webp"
+    },
+    {
+        "name": "FNF: Fireboy and Watergirl",
+        "slug": "fnf-fireboy-and-watergirl",
+        "image": "/cache/data/image/game/fnf-fireboy-and-watergirl/fnf-fireboy-and-watergirl-m186x186.webp"
+    },
+    {
+        "name": "FNF The Amazing Digital Circus",
+        "slug": "fnf-the-amazing-digital-circus",
+        "image": "/cache/data/image/game/fnf-the-amazing-digital-circus/fnf-the-amazing-digital-circus-m186x186.webp"
+    },
+    {
+        "name": "FNF Silly Billy vs Yourself",
+        "slug": "fnf-silly-billy-vs-yourself",
+        "image": "/cache/data/image/game/fnf-silly-billy-vs-yourself/fnf-silly-billy-vs-yourself-m186x186.webp"
     }
 ]
